@@ -1,0 +1,8 @@
+.status {
+  text-align: center;
+  padding: 40px 0;
+}
+
+.error {
+  color: #d33;
+}
